@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **C#, C++**
 
-##💡 Skills
+## 💡 Skills
 
 ```text
 C# | C | C++ | HTML | CSS | SASS | JavaScript | Bash | PowerShell | MYSQL | SQL-Server | Python | Photoshop
