@@ -28,14 +28,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coerres&show_icons=true&locale=en" alt="coerres" /></p>
 
-<details>
-    <summary><b>Stats</b></summary>
-<div align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Coerres&theme=transparent"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Coerres&theme=transparent" />
-    <img  src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Coerres&theme=transparent&utcOffset=1 " />
-</div>
-
- </details>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coerres&" alt="coerres" /></p>
