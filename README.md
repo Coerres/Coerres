@@ -25,11 +25,6 @@ C# | C | C++ | HTML | CSS | SASS | JavaScript | Bash | PowerShell | MYSQL | SQL-
 
 <h3 align="left">Languages and Tools:</h3>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coerres&show_icons=true&locale=en&layout=compact" alt="coerres" /></p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coerres&show_icons=true&locale=en" alt="coerres" /></p>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coerres&" alt="coerres" /></p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coerres&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=coerres&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=coerres&theme=transparent)
