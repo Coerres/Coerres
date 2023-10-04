@@ -20,8 +20,7 @@
 ```text
 C# | C | C++ | HTML | CSS | SASS | JavaScript | Bash | PowerShell | MYSQL | SQL-Server | Python | Photoshop
 ```
-I excel in C#, Go, Rust(Tauri), and Docker.  
-As my main OS, I tend to use Linux as it has not only become integral to my workflow but has also granted me a foundational knowldge of Bash scripting.  
+
 
 
 <h3 align="left">Languages and Tools:</h3>
