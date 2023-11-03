@@ -1,7 +1,7 @@
 ![GitHub_Banner](https://github.com/Coerres/Coerres/assets/142780835/41057f07-32e3-431c-9dd1-4d169cea0ec8)
 
 
-<h1 align="center">Hi 👋, I'm Carina Cordes</h1>
+<h1 align="center">Hi 👋, I'm Carina Cordes </h1>
 
 
 
