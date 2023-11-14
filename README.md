@@ -1,19 +1,14 @@
-![GitHub_Banner](https://github.com/Coerres/Coerres/assets/142780835/41057f07-32e3-431c-9dd1-4d169cea0ec8)
+
 
 
 <h1 align="center">Hi 👋, I'm Carina Cordes </h1>
 
 
 
+I am a Software Engineer currently enrolled at IMS, a computer science school in St. Gallen. Specializing in backend programming, I have acquired valuable experience in C#, C++, and MySQL through internships. Looking ahead, I aspire to further my education in computer science or AI, aiming to contribute to meaningful advancements in a large, impactful company dedicated to making a positive difference in the world.
 
 
-<p align="left"> <a href="https://twitter.com/devcoerres" target="blank"><img src="https://img.shields.io/twitter/follow/devcoerres?logo=twitter&style=for-the-badge" alt="devcoerres" /></a> </p>
 
-- 🔭 I’m currently working on my **Portfolio Website**
-
-- 🌱 I’m currently learning **Bootstraps**
-
-- 💬 Ask me about **C#, C++**
 
 ## 💡 Skills
 
