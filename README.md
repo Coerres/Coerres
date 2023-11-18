@@ -18,7 +18,7 @@ C# | C | C++ | HTML | CSS | SASS | JavaScript | Bash | PowerShell | MYSQL | SQL-
 
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Tools and Languages:</h3>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coerres&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=coerres&theme=transparent)
