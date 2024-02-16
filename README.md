@@ -13,7 +13,7 @@ I am a Software Engineer currently enrolled at IMS, a computer science school in
 ## 💡 Skills
 
 ```text
-C# | C | C++ | HTML | CSS | SASS | JavaScript | Bash | PowerShell | MYSQL | SQL-Light | SQL-Server | Python | Photoshop 
+C# | C | C++ | HTML | CSS | SASS | JavaScript | Bash | PowerShell | MYSQL | SQL-Server | Python | PHP
 ```
 
 <details>
