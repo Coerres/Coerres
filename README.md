@@ -17,11 +17,14 @@ C# | C | C++ | HTML | CSS | SASS | JavaScript | Bash | PowerShell | MYSQL | SQL-
 ```
 
 <details>
-    <summary><b>Stats</b></summary>
+ 
+<summary><b>Stats</b></summary>
+<div align="center">
 
 <h3 align="left">Languages and Tools:</h3>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coerres&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=coerres&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=coerres&theme=transparent)
+    </div>
 </details>
