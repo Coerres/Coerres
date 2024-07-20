@@ -4,8 +4,7 @@
 <h1 align="center">Hi 👋, I'm Carina Cordes </h1>
  
 
-
-I am a Software Engineer currently enrolled at IMS, a computer science school in St. Gallen. Specializing in backend programming, I have acquired valuable experience in C#, Python, and JavaScript through internships and a lot of projects myself. Looking ahead, I aspire to further my education in computer science or AI, aiming to contribute to meaningful advancements in a nice, impactful company dedicated to making a positive difference in the world.
+I am a Software Engineer currently studying at IMS, a computer science school in St. Gallen. With a specialization in backend programming and game development, I have gained valuable experience in C#, Python, and JavaScript through internships and numerous personal projects. Looking ahead, I aim to further my education in computer science or AI, aspiring to contribute to meaningful advancements at a company dedicated to making a positive impact in the world.
 
 
 
