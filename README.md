@@ -8,7 +8,6 @@ I am a Software Engineer currently studying at IMS, a computer science school in
 
 
 
-
 ## 💡 Skills
 
 ```text
