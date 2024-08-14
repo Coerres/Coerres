@@ -7,7 +7,6 @@
 I am a Software Engineer currently studying at IMS, a computer science school in St. Gallen. With a specialization in backend programming and game development, I have gained valuable experience in C#, Python, and JavaScript through internships and numerous personal projects. Looking ahead, I aim to further my education in computer science or AI, aspiring to contribute to meaningful advancements at a company dedicated to making a positive impact in the world.
 
 
-
 ## 💡 Skills
 
 ```text
