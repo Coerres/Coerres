@@ -10,7 +10,7 @@ I am a Software Engineer currently studying at IMS, a computer science school in
 ## 💡 Skills
 
 ```text
-C# | C | C++ | HTML | CSS | SASS | JavaScript | Bash | PowerShell | MYSQL | SQL-Server | Python | PHP
+C# | C | HTML | CSS | JavaScript | Bash | SQL-Server | Python 
 ```
 
 <details>
